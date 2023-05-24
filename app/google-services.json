@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71167404750",
+    "project_id": "tagomovieapp-f63b4",
+    "storage_bucket": "tagomovieapp-f63b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71167404750:android:205e071ab55ff8ff5afe9f",
+        "android_client_info": {
+          "package_name": "com.example.tagomovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71167404750-qila42q4u114a01lqhdm4ikkqhtqg51l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj-MZ3Z0T-MX7lod19ASfs9e9Au5Z7QlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71167404750-qila42q4u114a01lqhdm4ikkqhtqg51l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
